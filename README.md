@@ -1,9 +1,9 @@
 # C-Skills
 
-##About
+## About
 A collection of various C programs I have written 
 
-##Projects
+## Projects
 * binary_course_file_reader - reads in course data from a .txt file, stores the data in an array of course structs, writes the data to binary files, and can read/write the binary files
 * process_concurrency_manager - manages linux command line processes so that certain ones can be ran concurrent
 * Stack - my own personal stack program made for processing calulcator calculations but can be generalized to most data sets
